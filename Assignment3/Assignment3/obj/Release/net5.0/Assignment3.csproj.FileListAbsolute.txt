@@ -1,0 +1,16 @@
+/Users/maks/Downloads/Assignment3/Assignment3/bin/Release/net5.0/Assignment3
+/Users/maks/Downloads/Assignment3/Assignment3/bin/Release/net5.0/Assignment3.deps.json
+/Users/maks/Downloads/Assignment3/Assignment3/bin/Release/net5.0/Assignment3.runtimeconfig.json
+/Users/maks/Downloads/Assignment3/Assignment3/bin/Release/net5.0/Assignment3.runtimeconfig.dev.json
+/Users/maks/Downloads/Assignment3/Assignment3/bin/Release/net5.0/Assignment3.dll
+/Users/maks/Downloads/Assignment3/Assignment3/bin/Release/net5.0/Assignment3.pdb
+/Users/maks/Downloads/Assignment3/Assignment3/obj/Release/net5.0/Assignment3.csproj.AssemblyReference.cache
+/Users/maks/Downloads/Assignment3/Assignment3/obj/Release/net5.0/Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maks/Downloads/Assignment3/Assignment3/obj/Release/net5.0/Assignment3.AssemblyInfoInputs.cache
+/Users/maks/Downloads/Assignment3/Assignment3/obj/Release/net5.0/Assignment3.AssemblyInfo.cs
+/Users/maks/Downloads/Assignment3/Assignment3/obj/Release/net5.0/Assignment3.csproj.CoreCompileInputs.cache
+/Users/maks/Downloads/Assignment3/Assignment3/obj/Release/net5.0/Assignment3.dll
+/Users/maks/Downloads/Assignment3/Assignment3/obj/Release/net5.0/refint/Assignment3.dll
+/Users/maks/Downloads/Assignment3/Assignment3/obj/Release/net5.0/Assignment3.pdb
+/Users/maks/Downloads/Assignment3/Assignment3/obj/Release/net5.0/Assignment3.genruntimeconfig.cache
+/Users/maks/Downloads/Assignment3/Assignment3/obj/Release/net5.0/ref/Assignment3.dll

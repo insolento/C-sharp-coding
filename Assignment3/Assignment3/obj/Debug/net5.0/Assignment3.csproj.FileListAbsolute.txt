@@ -1,0 +1,48 @@
+C:/Users/drew/Source/Repos/Assignment3/Assignment3/bin/Debug/net5.0/Assignment3.exe
+C:/Users/drew/Source/Repos/Assignment3/Assignment3/bin/Debug/net5.0/Assignment3.deps.json
+C:/Users/drew/Source/Repos/Assignment3/Assignment3/bin/Debug/net5.0/Assignment3.runtimeconfig.json
+C:/Users/drew/Source/Repos/Assignment3/Assignment3/bin/Debug/net5.0/Assignment3.runtimeconfig.dev.json
+C:/Users/drew/Source/Repos/Assignment3/Assignment3/bin/Debug/net5.0/Assignment3.dll
+C:/Users/drew/Source/Repos/Assignment3/Assignment3/bin/Debug/net5.0/ref/Assignment3.dll
+C:/Users/drew/Source/Repos/Assignment3/Assignment3/bin/Debug/net5.0/Assignment3.pdb
+C:/Users/drew/Source/Repos/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.csprojAssemblyReference.cache
+C:/Users/drew/Source/Repos/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/drew/Source/Repos/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.AssemblyInfoInputs.cache
+C:/Users/drew/Source/Repos/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.AssemblyInfo.cs
+C:/Users/drew/Source/Repos/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.csproj.CoreCompileInputs.cache
+C:/Users/drew/Source/Repos/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.dll
+C:/Users/drew/Source/Repos/Assignment3/Assignment3/obj/Debug/net5.0/ref/Assignment3.dll
+C:/Users/drew/Source/Repos/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.pdb
+C:/Users/drew/Source/Repos/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.genruntimeconfig.cache
+/Users/maks/Downloads/Assignment3/Assignment3/bin/Debug/net5.0/Assignment3
+/Users/maks/Downloads/Assignment3/Assignment3/bin/Debug/net5.0/Assignment3.deps.json
+/Users/maks/Downloads/Assignment3/Assignment3/bin/Debug/net5.0/Assignment3.runtimeconfig.json
+/Users/maks/Downloads/Assignment3/Assignment3/bin/Debug/net5.0/Assignment3.runtimeconfig.dev.json
+/Users/maks/Downloads/Assignment3/Assignment3/bin/Debug/net5.0/Assignment3.dll
+/Users/maks/Downloads/Assignment3/Assignment3/bin/Debug/net5.0/Assignment3.pdb
+/Users/maks/Downloads/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.csproj.AssemblyReference.cache
+/Users/maks/Downloads/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maks/Downloads/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.AssemblyInfoInputs.cache
+/Users/maks/Downloads/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.AssemblyInfo.cs
+/Users/maks/Downloads/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.csproj.CoreCompileInputs.cache
+/Users/maks/Downloads/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.dll
+/Users/maks/Downloads/Assignment3/Assignment3/obj/Debug/net5.0/refint/Assignment3.dll
+/Users/maks/Downloads/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.pdb
+/Users/maks/Downloads/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.genruntimeconfig.cache
+/Users/maks/Downloads/Assignment3/Assignment3/obj/Debug/net5.0/ref/Assignment3.dll
+/Users/maks/Desktop/Prog 1/Assignment3/Assignment3/bin/Debug/net5.0/Assignment3
+/Users/maks/Desktop/Prog 1/Assignment3/Assignment3/bin/Debug/net5.0/Assignment3.deps.json
+/Users/maks/Desktop/Prog 1/Assignment3/Assignment3/bin/Debug/net5.0/Assignment3.runtimeconfig.json
+/Users/maks/Desktop/Prog 1/Assignment3/Assignment3/bin/Debug/net5.0/Assignment3.runtimeconfig.dev.json
+/Users/maks/Desktop/Prog 1/Assignment3/Assignment3/bin/Debug/net5.0/Assignment3.dll
+/Users/maks/Desktop/Prog 1/Assignment3/Assignment3/bin/Debug/net5.0/Assignment3.pdb
+/Users/maks/Desktop/Prog 1/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.csproj.AssemblyReference.cache
+/Users/maks/Desktop/Prog 1/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maks/Desktop/Prog 1/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.AssemblyInfoInputs.cache
+/Users/maks/Desktop/Prog 1/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.AssemblyInfo.cs
+/Users/maks/Desktop/Prog 1/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.csproj.CoreCompileInputs.cache
+/Users/maks/Desktop/Prog 1/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.dll
+/Users/maks/Desktop/Prog 1/Assignment3/Assignment3/obj/Debug/net5.0/refint/Assignment3.dll
+/Users/maks/Desktop/Prog 1/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.pdb
+/Users/maks/Desktop/Prog 1/Assignment3/Assignment3/obj/Debug/net5.0/Assignment3.genruntimeconfig.cache
+/Users/maks/Desktop/Prog 1/Assignment3/Assignment3/obj/Debug/net5.0/ref/Assignment3.dll

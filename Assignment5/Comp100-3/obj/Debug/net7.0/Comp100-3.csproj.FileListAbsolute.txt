@@ -1,0 +1,15 @@
+/Users/maks/Desktop/Prog 1/Comp100-3/Comp100-3/obj/Debug/net7.0/Comp100-3.csproj.AssemblyReference.cache
+/Users/maks/Desktop/Prog 1/Comp100-3/Comp100-3/obj/Debug/net7.0/Comp100-3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maks/Desktop/Prog 1/Comp100-3/Comp100-3/obj/Debug/net7.0/Comp100-3.AssemblyInfoInputs.cache
+/Users/maks/Desktop/Prog 1/Comp100-3/Comp100-3/obj/Debug/net7.0/Comp100-3.AssemblyInfo.cs
+/Users/maks/Desktop/Prog 1/Comp100-3/Comp100-3/obj/Debug/net7.0/Comp100-3.csproj.CoreCompileInputs.cache
+/Users/maks/Desktop/Prog 1/Comp100-3/Comp100-3/bin/Debug/net7.0/Comp100-3
+/Users/maks/Desktop/Prog 1/Comp100-3/Comp100-3/bin/Debug/net7.0/Comp100-3.deps.json
+/Users/maks/Desktop/Prog 1/Comp100-3/Comp100-3/bin/Debug/net7.0/Comp100-3.runtimeconfig.json
+/Users/maks/Desktop/Prog 1/Comp100-3/Comp100-3/bin/Debug/net7.0/Comp100-3.dll
+/Users/maks/Desktop/Prog 1/Comp100-3/Comp100-3/bin/Debug/net7.0/Comp100-3.pdb
+/Users/maks/Desktop/Prog 1/Comp100-3/Comp100-3/obj/Debug/net7.0/Comp100-3.dll
+/Users/maks/Desktop/Prog 1/Comp100-3/Comp100-3/obj/Debug/net7.0/refint/Comp100-3.dll
+/Users/maks/Desktop/Prog 1/Comp100-3/Comp100-3/obj/Debug/net7.0/Comp100-3.pdb
+/Users/maks/Desktop/Prog 1/Comp100-3/Comp100-3/obj/Debug/net7.0/Comp100-3.genruntimeconfig.cache
+/Users/maks/Desktop/Prog 1/Comp100-3/Comp100-3/obj/Debug/net7.0/ref/Comp100-3.dll
